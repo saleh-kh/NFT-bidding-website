@@ -1,0 +1,157 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'SF UI Display';
+  src: url(./fonts/sf-ui-display-bold-58646a511e3d9.otf);
+}
+
+@font-face {
+  font-family: 'SF UI Display-l';
+  src: url(./fonts/sf-ui-display-semibold-58646eddcae92.otf);
+}
+
+@font-face {
+  font-family: 'SF UI Display-body';
+  src: url(./fonts/sf-ui-display-light-58646b33e0551.otf);
+
+}
+
+@font-face {
+  font-family: 'SF UI Display-thin';
+  src: url(./fonts/sf-ui-display-thin-58646e9b26e8b.otf);
+}
+
+@font-face {
+  font-family: 'titan';
+  src: url(./fonts/Roboto_Mono/RobotoMono-VariableFont_wght.ttf);
+}
+
+
+
+body {
+  background-image: linear-gradient(to right, #764ba2, #667eea);
+  color: #ffffff;
+  font-family: 'SF UI Display-body', sans-serif;
+}
+
+h1 {
+  font-weight: bolder;
+  font-family: 'SF UI Display',
+    sans-serif;
+  font-size: 40px;
+  line-height: normal;
+}
+
+#span4nft {
+  color: #90ff24;
+  font-weight: bold;
+  font-family: 'SF UI Display',
+}
+
+.BOLDER {
+
+  font-weight: bold;
+  font-family: 'SF UI Display-l',
+    sans-serif;
+}
+
+#desc {
+  font-family: 'SF UI Display-thin',
+    sans-serif;
+  font-size: medium;
+}
+
+#log {
+  max-width: 85 !important;
+  max-height: 70 !important;
+}
+
+.bttn {
+  font-family: 'SF UI Display-light';
+}
+
+
+
+#loginSection2 {
+  background-color: rgba(255, 255, 255, 0.163);
+  backdrop-filter: saturate(180%) blur(10px);
+}
+
+#loginSection3 {
+  background-color: rgba(255, 255, 255, 0.163);
+  backdrop-filter: saturate(180%) blur(10px);
+  backdrop-filter: saturate(180%) blur(10px);
+}
+
+.shape1 {
+
+  background: linear-gradient(to right, #764ba2, #667eea);
+  ;
+  left: 200px;
+  top: 90px;
+  height: 200px;
+  width: 200px;
+  position: absolute;
+  border-radius: 50%;
+  z-index: -1;
+}
+
+.shape2 {
+
+  background: linear-gradient(to right, #764ba2, #667eea);
+  ;
+  left: 120px;
+  top: 450px;
+  height: 200px;
+  width: 200px;
+  position: absolute;
+  border-radius: 50%;
+  z-index: -1;
+}
+
+.shape3 {
+
+  background: linear-gradient(to right, #764ba2, #667eea);
+  ;
+  left: 900px;
+  top: 450px;
+  height: 200px;
+  width: 200px;
+  position: absolute;
+  border-radius: 50%;
+  z-index: -1;
+}
+
+#para {
+  font-family: 'SF UI Display-body',
+    sans-serif;
+}
+
+#bnr {
+  position: absolute;
+  left: 845px;
+  top: 540px;
+  backdrop-filter: saturate(180%) blur(10px);
+}
+
+#explorepage-text {
+  font-family: 'SF UI Display-body', sans-serif;
+  letter-spacing: 1px;
+}
+
+#light {
+  font-family: '';
+}
+
+#pricesection {
+  font-family: 'SF UI Display-thin',
+    sans-serif;
+}
+
+#Registersection3 {
+
+  background-color: rgba(255, 255, 255, 0.163);
+  backdrop-filter: saturate(180%) blur(10px);
+}
