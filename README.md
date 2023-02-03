@@ -34,4 +34,36 @@ npm start
 npm start
 ```
 
-# Screenshots
+# 📸 Screenshots
+
+<p align="center">
+<img src="./Demo/1.png" width="600"><br>
+<strong>Homepage</strong>
+</p>
+
+
+
+<p align="center">
+<img src="./Demo/2.png" width="600"><br>
+ <strong>Explore page</strong>
+</p>
+
+
+
+<p align="center">
+<img src="./Demo/3.png" width="600"><br>
+<strong>Explore page 2</strong>
+</p>
+
+
+
+<p align="center">
+<img src="./Demo/4.png" width="600"><br>
+</p>
+
+
+
+<p align="center">
+<img src="./Demo/5.png" width="600"><br>
+<strong>Signin page</strong>
+</p>
